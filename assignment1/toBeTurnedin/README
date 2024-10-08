@@ -1,0 +1,17 @@
+Dimitris Bisias 4273
+csd4273@csd.uoc.gr
+
+How to run: 1) make
+            2) ./shell
+
+DISCLAIMER: Den to exw testarei ston qemu mias kai exw linux sto pc mou, opote to etrexa locally.
+
+Xrhsimopoiw ena while(1) gia na na diavazei synexeia apo ton xrhsth me xrhsh ths getline().
+Arxika spaw to input tou xrhsth sta semicolons kai ystera sta whitespaces.
+Vazw thn entolh mazi me ta args ths(an yparxoun) se ena diplo pinaka.
+An yparxoun pipes spaw to input sta "|" kai ektelw kathe entolh vazontas to output ths prwths na einai 
+to input ths defterhs kai outo kathekshs (ypostirizei multiple pipes to programma).
+
+Ta signals doulevoun ola kanonika opws kai ta environment variables
+
+
