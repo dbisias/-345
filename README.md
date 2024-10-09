@@ -5,7 +5,7 @@ These are the assignments that we had to do for the Operating Systems class ([HY
 In the first assignment we had to make our own shell that can run commands and also supports the use of global variables, pipes and even some signals such as SIGINT, SIGTSTP, SIGCONT, SIGQUIT.
 
 ### How to Run
-Use make in the assignment1 directory and then simply run the executable named shell : ./shell 
+Use `make` in the assignment1 directory and then simply run the executable named shell : `./shell` 
 
 # Assignment 2
 The aim of the second assignment was to get familiar with threads. The concept is that there is a narrow road where the width is large enough only for one person, so if two people moving in opposite directions meet one has to go on the side and wait
@@ -27,7 +27,8 @@ for the other to pass.
 * Pedestrians must be added randomly on the road but inserted on the opposite side of the one they are traveling towards (a pedestrian going east will be inserted on the west side of the road).
 
 ### How to Run
-Use make in the assignment2 directory and then run the executable nr as follows: ./nr -p <num of people on road> 
+Use `make` in the assignment2 directory and then run the executable nr as follows: `./nr -p <num of people on road>`
+
 The number of people must be between 0 and 100
 
 # Assignment 3
